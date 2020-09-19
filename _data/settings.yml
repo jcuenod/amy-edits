@@ -1,12 +1,12 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Amy Stimson | Editor
 logo: 
-author: themefisher
+author: Amy Stimson
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
+email: tim.apple@example.com
+phone: +6
 address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Amy Stimson <br> <i>Editor</i>
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -52,10 +52,10 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  "All that sets your good idea apart from the pile of terrible ones that somehow make it into published works is its presentation. There are a number of layers to presentation: cover design, formatting, and, most importantly, editing. I have a PhD in English literature to make your prose leap from the page and I have partnered with the best designers around so together we can make your ideas capture minds."
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: Find Out More
 
 
 # About Page
@@ -116,10 +116,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: PhD English Fiction, date: '2020', organization: 'Some Exotic University, New Zealand'}
+- {name: Masters in Something, date: '2004', organization: 'Harvard University'}
+- {name: Honours in French, date: '2015', organization: 'UKZN, South Africa'}
+- {name: BA English and French, date: '2014', organization: 'UKZN, South Africa'}
 
 
 #-------------------------------
