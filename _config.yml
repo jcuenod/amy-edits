@@ -1,4 +1,4 @@
-baseurl: "/amy-edits" # the subpath of your site, e.g. /blog
+baseurl: "/amy-edits/" # the subpath of your site, e.g. /blog
 url: "https://jcuenod.github.io/amy-edits" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
@@ -12,7 +12,7 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: /:basename:output_ext
+      permalink: /amy-edits/:basename:output_ext
 
 include:
   - _pages
